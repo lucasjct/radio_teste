@@ -1,7 +1,10 @@
 import random
 import webbrowser
+
 lista =[1,2,3,4]
 escolha = ""
+
+
 print("""     MENU ESTAÇÕES
 
           1. Rádio Central AM
