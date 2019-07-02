@@ -1,4 +1,4 @@
-'''import random
+import random
 import webbrowser
 lista =[1,2,3,4]
 escolha = ""
